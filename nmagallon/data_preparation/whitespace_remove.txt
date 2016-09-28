@@ -1,5 +1,6 @@
 // CLI command to put all HTML content in one line
-// uses "html_minifier", NPM package
+// uses "html-minifier", NPM package
+// npm install html-minifier -g
 
 html-minifier catalog.html --collapse-whitespace --minify-js --minify-css -o catalog_clean.html
 
