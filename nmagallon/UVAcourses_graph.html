@@ -10,8 +10,11 @@
 </body>
 <script>
 
-document.getElementById('target').innerHTML = UVAcatalog_clean;
-var list = document.getElementsByTagName('td.CourseName');
+document.getElementById('target').innerHTML = UVAcourses;
+//var list = document.getElementsByTagName('td.CourseName');
+var list = document.getElementsByClassName('CourseName');
+
+
 
 //create array from nodelist 
 list = Array.prototype.slice.call(list);
