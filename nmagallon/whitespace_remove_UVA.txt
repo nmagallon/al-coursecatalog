@@ -1,0 +1,7 @@
+// CLI command to put all HTML content in one line
+// uses "html-minifier", NPM package
+// npm install html-minifier -g
+
+html-minifier UVA_CourseCatalog.html --collapse-whitespace --minify-js --minify-css -o UVAcatalog_clean.html
+
+//html-minifier sample_whitespace.html --collapse-whitespace --minify-js --minify-css -o sample_clean.html
