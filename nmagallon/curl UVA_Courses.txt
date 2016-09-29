@@ -19,10 +19,9 @@ http://rabi.phys.virginia.edu/mySIS/CC2/MDST.html \
 http://rabi.phys.virginia.edu/mySIS/CC2/MESA.html \
 http://rabi.phys.virginia.edu/mySIS/CC2/Music.html \
 http://rabi.phys.virginia.edu/mySIS/CC2/Philosophy.html \
-http://rabi.phys.virginia.edu/mySIS/CC2/Physics.html \ 
+http://rabi.phys.virginia.edu/mySIS/CC2/Physics.html \
 http://rabi.phys.virginia.edu/mySIS/CC2/Politics.html \
 http://rabi.phys.virginia.edu/mySIS/CC2/PHS.html \ 
-http://rabi.phys.virginia.edu/mySIS/CC2/Psychology.html \
 http://rabi.phys.virginia.edu/mySIS/CC2/ReliStu.html \
 http://rabi.phys.virginia.edu/mySIS/CC2/Slavic.html \
 http://rabi.phys.virginia.edu/mySIS/CC2/Sociology.html \
